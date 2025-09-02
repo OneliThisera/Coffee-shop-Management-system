@@ -1,0 +1,108 @@
+C:\Users\kesha\Desktop\coffee shop management system\coffee shop management system\bin\Debug\coffee shop management system.exe.config
+C:\Users\kesha\Desktop\coffee shop management system\coffee shop management system\bin\Debug\coffee shop management system.exe
+C:\Users\kesha\Desktop\coffee shop management system\coffee shop management system\bin\Debug\coffee shop management system.pdb
+C:\Users\kesha\Desktop\coffee shop management system\coffee shop management system\obj\Debug\coffee shop management system.csproj.AssemblyReference.cache
+C:\Users\kesha\Desktop\coffee shop management system\coffee shop management system\obj\Debug\coffee_shop_management_system.Form1.resources
+C:\Users\kesha\Desktop\coffee shop management system\coffee shop management system\obj\Debug\coffee_shop_management_system.Properties.Resources.resources
+C:\Users\kesha\Desktop\coffee shop management system\coffee shop management system\obj\Debug\coffee shop management system.csproj.GenerateResource.cache
+C:\Users\kesha\Desktop\coffee shop management system\coffee shop management system\obj\Debug\coffee shop management system.csproj.CoreCompileInputs.cache
+C:\Users\kesha\Desktop\coffee shop management system\coffee shop management system\obj\Debug\coffee shop management system.exe
+C:\Users\kesha\Desktop\coffee shop management system\coffee shop management system\obj\Debug\coffee shop management system.pdb
+C:\Users\kesha\Desktop\coffee shop management system\coffee shop management system\obj\Debug\coffee_shop_management_system.login.resources
+C:\Users\kesha\Desktop\coffee shop management system\coffee shop management system\obj\Debug\coffee_shop_management_system.dashboard.resources
+C:\Users\kesha\Desktop\coffee shop management system\coffee shop management system\obj\Debug\coffee_shop_management_system.Orders.resources
+C:\Users\kesha\Desktop\coffee shop management system\coffee shop management system\obj\Debug\coffee_shop_management_system.Stock.resources
+C:\Users\kesha\Desktop\coffee shop management system\coffee shop management system\obj\Debug\coffee_shop_management_system.Billing.resources
+C:\Users\kesha\Desktop\coffee shop management system\coffee shop management system\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\kesha\Desktop\coffee shop management system\coffee shop management system\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\kesha\Desktop\coffee shop management system\coffee shop management system\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\kesha\Desktop\coffee shop management system\coffee shop management system\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\kesha\Desktop\coffee shop management system\coffee shop management system\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\kesha\Desktop\coffee shop management system\coffee shop management system\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\kesha\Desktop\coffee shop management system\coffee shop management system\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\kesha\Desktop\coffee shop management system\coffee shop management system\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\kesha\Desktop\coffee shop management system\coffee shop management system\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\kesha\Desktop\coffee shop management system\coffee shop management system\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\kesha\Desktop\coffee shop management system\coffee shop management system\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\kesha\Desktop\coffee shop management system\coffee shop management system\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\kesha\Desktop\coffee shop management system\coffee shop management system\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\kesha\Desktop\coffee shop management system\coffee shop management system\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\kesha\Desktop\coffee shop management system\coffee shop management system\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\kesha\Desktop\coffee shop management system\coffee shop management system\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\kesha\Desktop\coffee shop management system\coffee shop management system\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\kesha\Desktop\coffee shop management system\coffee shop management system\bin\Debug\stdole.dll
+C:\Users\kesha\Desktop\coffee shop management system\coffee shop management system\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\kesha\Desktop\coffee shop management system\coffee shop management system\obj\Debug\coffee_shop_management_system.Report.resources
+C:\Users\kesha\Desktop\coffee shop management system\coffee shop management system\obj\Debug\coffee shop management system.csproj.CopyComplete
+D:\coffee shop management system\coffee shop management system\bin\Debug\coffee shop management system.exe.config
+D:\coffee shop management system\coffee shop management system\bin\Debug\coffee shop management system.exe
+D:\coffee shop management system\coffee shop management system\bin\Debug\coffee shop management system.pdb
+D:\coffee shop management system\coffee shop management system\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\coffee shop management system\coffee shop management system\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\coffee shop management system\coffee shop management system\bin\Debug\CrystalDecisions.Shared.dll
+D:\coffee shop management system\coffee shop management system\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\coffee shop management system\coffee shop management system\bin\Debug\ShockwaveFlashObjects.dll
+D:\coffee shop management system\coffee shop management system\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\coffee shop management system\coffee shop management system\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\coffee shop management system\coffee shop management system\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\coffee shop management system\coffee shop management system\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\coffee shop management system\coffee shop management system\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\coffee shop management system\coffee shop management system\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\coffee shop management system\coffee shop management system\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\coffee shop management system\coffee shop management system\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\coffee shop management system\coffee shop management system\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\coffee shop management system\coffee shop management system\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\coffee shop management system\coffee shop management system\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\coffee shop management system\coffee shop management system\bin\Debug\stdole.dll
+D:\coffee shop management system\coffee shop management system\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\coffee shop management system\coffee shop management system\obj\Debug\coffee shop management system.csproj.AssemblyReference.cache
+D:\coffee shop management system\coffee shop management system\obj\Debug\coffee_shop_management_system.Billing.resources
+D:\coffee shop management system\coffee shop management system\obj\Debug\coffee_shop_management_system.dashboard.resources
+D:\coffee shop management system\coffee shop management system\obj\Debug\coffee_shop_management_system.Form1.resources
+D:\coffee shop management system\coffee shop management system\obj\Debug\coffee_shop_management_system.Report.resources
+D:\coffee shop management system\coffee shop management system\obj\Debug\coffee_shop_management_system.Stock.resources
+D:\coffee shop management system\coffee shop management system\obj\Debug\coffee_shop_management_system.login.resources
+D:\coffee shop management system\coffee shop management system\obj\Debug\coffee_shop_management_system.Orders.resources
+D:\coffee shop management system\coffee shop management system\obj\Debug\coffee_shop_management_system.Properties.Resources.resources
+D:\coffee shop management system\coffee shop management system\obj\Debug\coffee shop management system.csproj.GenerateResource.cache
+D:\coffee shop management system\coffee shop management system\obj\Debug\coffee shop management system.csproj.CoreCompileInputs.cache
+D:\coffee shop management system\coffee shop management system\obj\Debug\coffee s.ADF9F811.Up2Date
+D:\coffee shop management system\coffee shop management system\obj\Debug\coffee shop management system.exe
+D:\coffee shop management system\coffee shop management system\obj\Debug\coffee shop management system.pdb
+C:\Users\User\source\repos\coffee shop management system\coffee shop management system\bin\Debug\coffee shop management system.exe.config
+C:\Users\User\source\repos\coffee shop management system\coffee shop management system\bin\Debug\coffee shop management system.exe
+C:\Users\User\source\repos\coffee shop management system\coffee shop management system\bin\Debug\coffee shop management system.pdb
+C:\Users\User\source\repos\coffee shop management system\coffee shop management system\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\User\source\repos\coffee shop management system\coffee shop management system\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\User\source\repos\coffee shop management system\coffee shop management system\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\User\source\repos\coffee shop management system\coffee shop management system\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\User\source\repos\coffee shop management system\coffee shop management system\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\User\source\repos\coffee shop management system\coffee shop management system\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\User\source\repos\coffee shop management system\coffee shop management system\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\User\source\repos\coffee shop management system\coffee shop management system\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\User\source\repos\coffee shop management system\coffee shop management system\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\User\source\repos\coffee shop management system\coffee shop management system\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\User\source\repos\coffee shop management system\coffee shop management system\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\User\source\repos\coffee shop management system\coffee shop management system\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\User\source\repos\coffee shop management system\coffee shop management system\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\User\source\repos\coffee shop management system\coffee shop management system\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\User\source\repos\coffee shop management system\coffee shop management system\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\User\source\repos\coffee shop management system\coffee shop management system\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\User\source\repos\coffee shop management system\coffee shop management system\bin\Debug\stdole.dll
+C:\Users\User\source\repos\coffee shop management system\coffee shop management system\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\User\source\repos\coffee shop management system\coffee shop management system\obj\Debug\coffee shop management system.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\coffee shop management system\coffee shop management system\obj\Debug\coffee_shop_management_system.Billing.resources
+C:\Users\User\source\repos\coffee shop management system\coffee shop management system\obj\Debug\coffee_shop_management_system.dashboard.resources
+C:\Users\User\source\repos\coffee shop management system\coffee shop management system\obj\Debug\coffee_shop_management_system.Form1.resources
+C:\Users\User\source\repos\coffee shop management system\coffee shop management system\obj\Debug\coffee_shop_management_system.Report.resources
+C:\Users\User\source\repos\coffee shop management system\coffee shop management system\obj\Debug\coffee_shop_management_system.Stock.resources
+C:\Users\User\source\repos\coffee shop management system\coffee shop management system\obj\Debug\coffee_shop_management_system.login.resources
+C:\Users\User\source\repos\coffee shop management system\coffee shop management system\obj\Debug\coffee_shop_management_system.Orders.resources
+C:\Users\User\source\repos\coffee shop management system\coffee shop management system\obj\Debug\coffee_shop_management_system.Properties.Resources.resources
+C:\Users\User\source\repos\coffee shop management system\coffee shop management system\obj\Debug\coffee shop management system.csproj.GenerateResource.cache
+C:\Users\User\source\repos\coffee shop management system\coffee shop management system\obj\Debug\coffee shop management system.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\coffee shop management system\coffee shop management system\obj\Debug\coffee s.ADF9F811.Up2Date
+C:\Users\User\source\repos\coffee shop management system\coffee shop management system\obj\Debug\coffee shop management system.exe
+C:\Users\User\source\repos\coffee shop management system\coffee shop management system\obj\Debug\coffee shop management system.pdb
+C:\Users\User\source\repos\coffee shop management system\coffee shop management system\obj\Debug\coffee_shop_management_system.Stock_Report.resources
+C:\Users\User\source\repos\coffee shop management system\coffee shop management system\obj\Debug\coffee shop management system.exe.config
