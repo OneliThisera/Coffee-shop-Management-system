@@ -1,5 +1,6 @@
 # Coffee-shop-Management-system
-Coffee Shop Management System
+Coffee Shop Management System built with C#, Windows Forms, and MS SQL Server.
+Includes modules for orders, billing, payments, inventory, staff, and customer feedback.
 <img width="960" height="564" alt="image" src="https://github.com/user-attachments/assets/d4c4151e-c79e-498f-ab0a-2504eb702d37" />
 <img width="634" height="452" alt="image" src="https://github.com/user-attachments/assets/7215cb16-5637-4674-bb17-ed421c31539e" />
 <img width="691" height="419" alt="image" src="https://github.com/user-attachments/assets/e17b26b7-8f7a-43f2-b635-c222ff65beef" />
